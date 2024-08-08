@@ -72,9 +72,9 @@ In the **Intercompany sales order \> Intercompany purchase order** field group, 
 
 The intercompany organization includes the following legal entities:
 
-- Legal entity A – A sales legal entity that sells to external customers and buys from Legal entity B.
-- Legal entity B – A production or distribution legal entity that cannot deliver products, and buys from Legal entity C.
-- Legal entity C – A production or distribution legal entity that delivers products to Legal entity B.
+- Legal entity A – sales legal entity that sells to external customers and buys from Legal entity B.
+- Legal entity B – production or distribution legal entity that cannot deliver products, and buys from Legal entity C.
+- Legal entity C – production or distribution legal entity that delivers products to Legal entity B.
 
 Internal transfer pricing between Legal entities B and C is at cost from the selling legal entity at the start of the chain. It is also at cost to Legal entity A, which sells to external customers. However, pricing on the original sales order to the external customer is always based on the sales price.
 
